@@ -99,10 +99,10 @@ contract AboutMe {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bimopraksw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bimopraksw&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=bimopraksw&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -112,8 +112,8 @@ contract AboutMe {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-defi-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/yourusername/your-defi-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-nft-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/yourusername/your-nft-project)
+[![Ancile-DeFi-Assistant](https://github-readme-stats.vercel.app/api/pin/?username=bimopraksw&repo=Ancile-DeFi-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)]([https://github.com/yourusername/your-defi-project](https://github.com/bimopraksw/Ancile-DeFi-Assistant))
+[![NFT](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-nft-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)]([https://github.com/yourusername/your-nft-project](https://github.com/bimopraksw/NFT-Contract-Base))
 
 </div>
 
