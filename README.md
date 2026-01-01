@@ -85,8 +85,8 @@ contract AboutMe {
 
 | 🎯 Achievement | 📊 Status |
 |:---:|:---:|
-| Smart Contracts Deployed | `50+` |
-| TVL Secured | `$10M+` |
+| Smart Contracts Deployed | `10+` |
+| TVL Secured | `$???` |
 | Gas Optimized | `∞` |
 | Bugs Squashed | `404 Not Found` |
 | Coffee Consumed | `☕☕☕☕☕` |
@@ -112,8 +112,8 @@ contract AboutMe {
 
 <div align="center">
 
-[![Ancile-DeFi-Assistant](https://github-readme-stats.vercel.app/api/pin/?username=bimopraksw&repo=Ancile-DeFi-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)]([https://github.com/bimopraksw/Ancile-DeFi-Assistant])
-[![NFT](https://github-readme-stats.vercel.app/api/pin/?username=bimopraksw&repo=NFT-Contract-Base&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)]([[https://github.com/bimopraksw/NFT-Contract-Base])
+[![Ancile-DeFi-Assistant](https://github-readme-stats.vercel.app/api/pin/?username=bimopraksw&repo=Ancile-DeFi-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/bimopraksw/Ancile-DeFi-Assistant)
+[![NFT](https://github-readme-stats.vercel.app/api/pin/?username=bimopraksw&repo=NFT-Contract-Base&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/bimopraksw/NFT-Contract-Base)
 
 </div>
 
@@ -123,7 +123,7 @@ contract AboutMe {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/bimopraksw/bimopraksw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
