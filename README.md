@@ -22,7 +22,7 @@
 pragma solidity ^0.8.19;
 
 contract AboutMe {
-    string public constant name = "Your Name";
+    string public constant name = "bimo";
     string public constant role = "Web3 Developer";
     string[] public skills = ["Solidity", "Rust", "TypeScript", "React"];
     
