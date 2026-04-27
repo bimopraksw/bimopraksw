@@ -159,6 +159,8 @@ contract Bimo {
 <br/>
 
 ![Ethereum](https://img.shields.io/badge/Always%20Learning%2C%20Always%20Building-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
+![Trenches](https://img.shields.io/badge/Still%20in%20the%20Trenches-0d1b4b?style=for-the-badge&logo=solidity&logoColor=7EB8F7)
+![Builder](https://img.shields.io/badge/Just%20a%20Builder-0d1b4b?style=for-the-badge&logo=github&logoColor=7EB8F7)
 ![Multi-chain](https://img.shields.io/badge/Multi--Chain%20Builder-0d1b4b?style=for-the-badge&logo=chainlink&logoColor=7EB8F7)
 ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-0d1b4b?style=for-the-badge&logo=github&logoColor=7EB8F7)
 
