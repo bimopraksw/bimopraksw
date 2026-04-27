@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://twitter.com/bimopraksw"><img src="https://img.shields.io/badge/Twitter-1a1f4e?style=for-the-badge&logo=twitter&logoColor=7EB8F7"/></a>
+<a href="https://x.com/oxblurryface"><img src="https://img.shields.io/badge/X-1a1f4e?style=for-the-badge&logo=x&logoColor=7EB8F7"/></a>
 &nbsp;
 <a href="mailto:bpraksw@gmail.com"><img src="https://img.shields.io/badge/Email-1a1f4e?style=for-the-badge&logo=gmail&logoColor=7EB8F7"/></a>
 &nbsp;
