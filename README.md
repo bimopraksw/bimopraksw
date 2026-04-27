@@ -20,9 +20,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
 
 <br/>
 
@@ -58,9 +56,7 @@ contract Bimo {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
 
 <br/>
 
@@ -104,9 +100,7 @@ contract Bimo {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
 
 <br/>
 
@@ -132,9 +126,7 @@ contract Bimo {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
 
 <br/>
 
@@ -156,21 +148,21 @@ contract Bimo {
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-## ✦ &nbsp; Trophies &nbsp; ✦
+## ✦ &nbsp; On-Chain Activity &nbsp; ✦
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bimopraksw&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
+![Ethereum](https://img.shields.io/badge/10%2B%20Contracts%20Deployed-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
+![Multi-chain](https://img.shields.io/badge/Multi--Chain%20Builder-0d1b4b?style=for-the-badge&logo=chainlink&logoColor=7EB8F7)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-0d1b4b?style=for-the-badge&logo=github&logoColor=7EB8F7)
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=bimopraksw&color=1a3a8a&style=for-the-badge&label=VISITORS" alt="Visitors"/>
 
@@ -180,6 +172,6 @@ contract Bimo {
 　　✦ 　　　　　★　　　　　　✧　　　　　　★　　　　　✦
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=star&color=0a0e27,0d1b4b,1a1040,0a0e27&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,0d1b4b,1a1040&height=120&section=footer" width="100%"/>
 
 </div>
