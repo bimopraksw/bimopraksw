@@ -38,7 +38,7 @@ pragma solidity ^0.8.24;
 
 /// @title  The Dev Under the Stars
 contract Bimo {
-    string  public name    = "Bimo Praksw";
+    string  public name    = "Bimo";
     string  public alias   = "oxblurryface";
     string  public role    = "Smart Contract Developer";
     bool    public gm      = true;
