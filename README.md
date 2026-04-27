@@ -158,7 +158,7 @@ contract Bimo {
 
 <br/>
 
-![Ethereum](https://img.shields.io/badge/10%2B%20Contracts%20Deployed-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
+![Ethereum](https://img.shields.io/badge/Always%20Learning%2C%20Always%20Building-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
 ![Multi-chain](https://img.shields.io/badge/Multi--Chain%20Builder-0d1b4b?style=for-the-badge&logo=chainlink&logoColor=7EB8F7)
 ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-0d1b4b?style=for-the-badge&logo=github&logoColor=7EB8F7)
 
