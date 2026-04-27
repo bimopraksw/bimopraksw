@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=star&color=0a0e27,0d1b4b,1a1040,0a0e27&height=220&section=header&text=bimopraksw&fontSize=52&fontColor=e2d9f3&animation=twinkling&fontAlignY=40&desc=Smart%20Contract%20Dev%20%E2%80%A2%20DeFi%20Builder%20%E2%80%A2%20Web3%20Native&descAlignY=62&descSize=15&descColor=8b9dc3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0a0e27,0d1b4b,1a1040,0a0e27&height=220&section=header&text=bimopraksw&fontSize=52&fontColor=e2d9f3&animation=twinkling&fontAlignY=40&desc=Smart%20Contract%20Dev%20%E2%80%A2%20DeFi%20Builder%20%E2%80%A2%20Web3%20Native&descAlignY=62&descSize=15&descColor=8b9dc3" width="100%"/>
 
 <br/>
 
