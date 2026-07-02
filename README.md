@@ -1,179 +1,42 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bimopraksw/bimopraksw/main/assets/banner.png" width="100%" alt="0xblurryface banner"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7EB8F7&center=true&vCenter=true&width=560&lines=gm+%F0%9F%8C%99+Building+on-chain+%E2%80%94+WAGMI;Solidity+%7C+Rust+%7C+TypeScript;DeFi+%E2%80%A2+NFT+%E2%80%A2+Protocol+Architecture;10%2B+contracts+deployed+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://x.com/oxblurryface"><img src="https://img.shields.io/badge/X-1a1f4e?style=for-the-badge&logo=x&logoColor=7EB8F7"/></a>
-&nbsp;
-<a href="mailto:bpraksw@gmail.com"><img src="https://img.shields.io/badge/Email-1a1f4e?style=for-the-badge&logo=gmail&logoColor=7EB8F7"/></a>
-&nbsp;
-<a href="https://etherscan.io/"><img src="https://img.shields.io/badge/Etherscan-1a1f4e?style=for-the-badge&logo=ethereum&logoColor=7EB8F7"/></a>
-&nbsp;
-<a href="https://opensea.io/"><img src="https://img.shields.io/badge/OpenSea-1a1f4e?style=for-the-badge&logo=opensea&logoColor=7EB8F7"/></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-```
-　　　✦ 　　　　　　　★　　　　　　　✦　　　　　　✧
-　　　　　　　✧　　　　　　　　　　　　　　　　　　　　　★
-　　★　　　　　　　　　✦　　　　　　　　✧　　　　　　　　
+```text
+oxblurryface@github
+═══════════════════
+role      villain from your story
+work      ai agents, mcp servers, automation
+langs     typescript, python, some solidity
+uptime    since 2022
+shell     whichever one claude code opens
 ```
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.24;
+i build tooling that lets ai agents do real work: mcp servers, browser automation, alerts that people actually read. typescript and python most days, some solidity resting in a drawer.
 
-/// @title  The Dev Under the Stars
-contract Bimo {
-    string  public name    = "Bimo";
-    string  public alias   = "oxblurryface";
-    string  public role    = "Smart Contract Developer";
-    bool    public gm      = true;
+<sub>earlier life: python and machine learning. pokemon stat prediction, ktp ocr, a multi armed bandit that picked songs.</sub>
 
-    string[] public chains  = ["Ethereum","Base","Polygon","Arbitrum","Optimism"];
-    string[] public stack   = ["Solidity","Rust","TypeScript","React","Next.js"];
+### currently
 
-    function vibe() external pure returns (string memory) {
-        return "Shipping contracts under a starry sky. WAGMI.";
-    }
-}
-```
+| | |
+| --- | --- |
+| **building** | [`ticketing-infra-360-mcp`](https://github.com/bimopraksw/ticketing-infra-360-mcp), an mcp server that lets agents run the LinkIT360 ticketing desk, browser automation included |
+| **maintaining** | [`PromptLint`](https://github.com/bimopraksw/PromptLint), an always on english review layer for ai coding agents (claude code, cursor, windsurf) |
+| **on the side** | [`Polymarket-Market-Notify`](https://github.com/bimopraksw/Polymarket-Market-Notify), market alerts so nobody keeps a tab open. [`Ancile-DeFi-Assistant`](https://github.com/bimopraksw/Ancile-DeFi-Assistant), a natural language defi security assistant |
 
-</div>
+<!--
+listening card: one login to activate.
+1. open https://spotify-github-profile.kittinanx.com/api/login and connect spotify
+2. copy the uid it gives you and replace SPOTIFY_UID below (it appears twice)
+3. move the row below into the table above, as the last row
+if the card ever breaks, the service probably moved domains again: check github.com/kittinan/spotify-github-profile
 
-<br/>
+| **listening** | <a href="https://open.spotify.com/user/SPOTIFY_UID"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_UID&cover_image=true&theme=default&background_color=0d1117&border_radius=12" alt="now playing on spotify"></a> |
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
+<p>
+  <img alt="github stats" src="https://github-stats-extended.vercel.app/api?username=bimopraksw&theme=transparent&hide_border=true&show_icons=true&hide_rank=true&cache_seconds=86400" height="165">
+  <img alt="most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bimopraksw&layout=compact&theme=transparent&hide_border=true&langs_count=6&cache_seconds=86400" height="165">
+</p>
 
-<br/>
+---
 
-<div align="center">
+[`x: @oxblurryface`](https://x.com/oxblurryface) · [`mail: bpraksw@gmail.com`](mailto:bpraksw@gmail.com)
 
-## ✦ &nbsp; Tech Stack &nbsp; ✦
-
-<br/>
-
-**— Contracts & Protocols —**
-
-![Solidity](https://img.shields.io/badge/Solidity-0d1b4b?style=for-the-badge&logo=solidity&logoColor=7EB8F7)
-![Rust](https://img.shields.io/badge/Rust-0d1b4b?style=for-the-badge&logo=rust&logoColor=7EB8F7)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-0d1b4b?style=for-the-badge&logo=openzeppelin&logoColor=7EB8F7)
-![Chainlink](https://img.shields.io/badge/Chainlink-0d1b4b?style=for-the-badge&logo=chainlink&logoColor=7EB8F7)
-
-**— Frontend & Web3 Integration —**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1b4b?style=for-the-badge&logo=typescript&logoColor=7EB8F7)
-![React](https://img.shields.io/badge/React-0d1b4b?style=for-the-badge&logo=react&logoColor=7EB8F7)
-![Next.js](https://img.shields.io/badge/Next.js-0d1b4b?style=for-the-badge&logo=nextdotjs&logoColor=7EB8F7)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
-![Wagmi](https://img.shields.io/badge/Wagmi-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
-
-**— Dev Tools —**
-
-![Hardhat](https://img.shields.io/badge/Hardhat-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
-![Foundry](https://img.shields.io/badge/Foundry-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
-![The Graph](https://img.shields.io/badge/The%20Graph-0d1b4b?style=for-the-badge&logo=thegraph&logoColor=7EB8F7)
-![Git](https://img.shields.io/badge/Git-0d1b4b?style=for-the-badge&logo=git&logoColor=7EB8F7)
-
-**— Chains —**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=C0C0C0)
-![Base](https://img.shields.io/badge/Base-0d1b4b?style=for-the-badge&logo=coinbase&logoColor=4F8EF7)
-![Polygon](https://img.shields.io/badge/Polygon-0d1b4b?style=for-the-badge&logo=polygon&logoColor=8247E5)
-![Arbitrum](https://img.shields.io/badge/Arbitrum-0d1b4b?style=for-the-badge&logo=arbitrum&logoColor=28A0F0)
-![Optimism](https://img.shields.io/badge/Optimism-0d1b4b?style=for-the-badge&logo=optimism&logoColor=FF0420)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## ✦ &nbsp; GitHub Stats &nbsp; ✦
-
-<br/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=bimopraksw&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0e27&title_color=7EB8F7&icon_color=7EB8F7&text_color=c9d1d9&ring_color=1a3a8a"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimopraksw&layout=compact&hide_border=true&bg_color=0a0e27&title_color=7EB8F7&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimopraksw&hide_border=true&background=0a0e27&ring=1a3a8a&fire=7EB8F7&currStreakLabel=7EB8F7&sideLabels=8b9dc3&currStreakNum=e2d9f3&sideNums=e2d9f3&dates=8b9dc3" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bimopraksw&bg_color=0a0e27&color=7EB8F7&line=1a3a8a&point=7EB8F7&area=true&area_color=1a3a8a&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## ✦ &nbsp; Featured Projects &nbsp; ✦
-
-<br/>
-
-<a href="https://github.com/bimopraksw/Ancile-DeFi-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimopraksw&repo=Ancile-DeFi-Assistant&hide_border=true&bg_color=0a0e27&title_color=7EB8F7&icon_color=7EB8F7&text_color=c9d1d9"/>
-</a>
-&nbsp;
-<a href="https://github.com/bimopraksw/NFT-Contract-Base">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimopraksw&repo=NFT-Contract-Base&hide_border=true&bg_color=0a0e27&title_color=7EB8F7&icon_color=7EB8F7&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b4b,1a3a8a,0d1b4b&height=2" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## ✦ &nbsp; On-Chain Activity &nbsp; ✦
-
-<br/>
-
-![Ethereum](https://img.shields.io/badge/Always%20Learning%2C%20Always%20Building-0d1b4b?style=for-the-badge&logo=ethereum&logoColor=7EB8F7)
-![Trenches](https://img.shields.io/badge/Still%20in%20the%20Trenches-0d1b4b?style=for-the-badge&logo=solidity&logoColor=7EB8F7)
-![Builder](https://img.shields.io/badge/Just%20a%20Builder-0d1b4b?style=for-the-badge&logo=github&logoColor=7EB8F7)
-![Multi-chain](https://img.shields.io/badge/Multi--Chain%20Builder-0d1b4b?style=for-the-badge&logo=chainlink&logoColor=7EB8F7)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-0d1b4b?style=for-the-badge&logo=github&logoColor=7EB8F7)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=bimopraksw&color=1a3a8a&style=for-the-badge&label=VISITORS" alt="Visitors"/>
-
-<br/><br/>
-
-```
-　　✦ 　　　　　★　　　　　　✧　　　　　　★　　　　　✦
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0e27,0d1b4b,1a1040&height=120&section=footer" width="100%"/>
-
-</div>
+<div align="right"><sub>every story needs one.</sub></div>
