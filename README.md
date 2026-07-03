@@ -19,16 +19,9 @@ i build tooling that lets ai agents do real work: mcp servers, browser automatio
 | **building** | [`ticketing-infra-360-mcp`](https://github.com/bimopraksw/ticketing-infra-360-mcp), an mcp server that lets agents run the LinkIT360 ticketing desk, browser automation included |
 | **maintaining** | [`PromptLint`](https://github.com/bimopraksw/PromptLint), an always on english review layer for ai coding agents (claude code, cursor, windsurf) |
 | **on the side** | [`Polymarket-Market-Notify`](https://github.com/bimopraksw/Polymarket-Market-Notify), market alerts so nobody keeps a tab open. [`Ancile-DeFi-Assistant`](https://github.com/bimopraksw/Ancile-DeFi-Assistant), a natural language defi security assistant |
+| **listening** | <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=o3w4li0ygkcvwq6pjshk0frr2&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=o3w4li0ygkcvwq6pjshk0frr2&cover_image=true&theme=default&background_color=0d1117&border_radius=12&hide_remaster=true" alt="now playing on spotify"></a> |
 
-<!--
-listening card: one login to activate.
-1. open https://spotify-github-profile.kittinanx.com/api/login and connect spotify
-2. copy the uid it gives you and replace SPOTIFY_UID below (it appears twice)
-3. move the row below into the table above, as the last row
-if the card ever breaks, the service probably moved domains again: check github.com/kittinan/spotify-github-profile
-
-| **listening** | <a href="https://open.spotify.com/user/SPOTIFY_UID"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_UID&cover_image=true&theme=default&background_color=0d1117&border_radius=12" alt="now playing on spotify"></a> |
--->
+<!-- if the spotify card ever breaks, the service probably moved domains again: check github.com/kittinan/spotify-github-profile -->
 
 <p>
   <img alt="github stats" src="https://github-stats-extended.vercel.app/api?username=bimopraksw&theme=transparent&hide_border=true&show_icons=true&hide_rank=true&cache_seconds=86400" height="165">
