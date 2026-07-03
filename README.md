@@ -45,6 +45,6 @@ on the community side, i run communities for web3 projects: discord and telegram
 
 ---
 
-[`x: @oxblurryface`](https://x.com/oxblurryface) · [`mail: bpraksw@gmail.com`](mailto:bpraksw@gmail.com)
+[`x: @oxblurryface`](https://x.com/oxblurryface) · [`mail: bimopraksw@gmail.com`](mailto:bimopraksw@gmail.com)
 
 <div align="right"><sub>see you on chain.</sub></div>
